@@ -54,8 +54,8 @@ new Vue({
 export defaults {
   data () {
     offset: {
-      top: 0, // 顶部偏移数
-      bottom: 44 // 底部偏移数
+      top: 0, // set the top breakpoint
+      bottom: 44 // set the bottom breakpoint
     }
   }
 }
