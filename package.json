@@ -2,7 +2,7 @@
   "name": "vuejs-sticky-directive",
   "version": "1.0.0",
   "description": "Vue directive that supports top and bottom sticky base on pure js and vue.",
-  "main": "vue-sticky-directive.js",
+  "main": "vuejs-sticky-directive.js",
   "directories": {
     "example": "example"
   },
