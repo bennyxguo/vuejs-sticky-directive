@@ -1,6 +1,11 @@
 # vuejs-sticky-directive
 Support top and bottom sticky base on pure js and vue.
 
+<p align="center">
+  <a href="https://circleci.com/gh/TriDiamond/vuejs-sticky-directive/tree/master"><img src="https://img.shields.io/circleci/project/TriDiamond/vuejs-sticky-directive/master.svg" alt="Build Status"></a>
+  <a><img src="https://img.shields.io/github/stars/TriDiamond/vuejs-sticky-directive"></a>
+</p>
+
 [📑中文文档](https://github.com/TriDiamond/vuejs-sticky-directive/blob/master/README_CN.md)
 
 # Install

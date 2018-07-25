@@ -1,6 +1,11 @@
 # vuejs-sticky-directive
 支持头部和底部sticky的功能, 使用的是原生js和vue的directive实现.
 
+<p align="center">
+  <a href="https://circleci.com/gh/TriDiamond/vuejs-sticky-directive/tree/master"><img src="https://img.shields.io/circleci/project/TriDiamond/vuejs-sticky-directive/master.svg" alt="Build Status"></a>
+  <a><img src="https://img.shields.io/github/stars/TriDiamond/vuejs-sticky-directive"></a>
+</p>
+
 [📑English Document](https://github.com/TriDiamond/vuejs-sticky-directive/blob/master/README.md)
 
 # 安装
