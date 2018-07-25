@@ -167,7 +167,12 @@ class Sticky {
     ['position', 'top', 'bottom', 'left', 'width', 'zIndex'].forEach((attr) => {
       this.el.style.removeProperty(attr)
     })
-    this.placeholderEl.parentNode.removeChild(this.placeholderEl)
+    const {vm} = this
+    vm.$nextTick(() => {
+      if (this.placeholderEl) {
+        this.placeholderEl.parentNode.removeChild(this.placeholderEl)
+      }
+    })
   }
 
   getContainerEl () {
